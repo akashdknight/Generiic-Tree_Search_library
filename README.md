@@ -6,7 +6,7 @@ Tree Search Library
 ## How to clone
 
 Open terminal and run the following command \
-`$ git clone https://github.com/phish432/DSA-Mini-Project.git`
+`$ git clone https://github.com/akashdknight/Generiic-Tree_Search_library.git`
 
 
 ## How to compile
